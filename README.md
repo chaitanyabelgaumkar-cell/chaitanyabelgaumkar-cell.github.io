@@ -77,10 +77,12 @@ An interactive analytics dashboard developed using Power BI, SQL, and Excel to a
 
 ## Education
 
-| Degree | Institution | Year | Percentage |
-|----------|------------|------|------------|
-| MBA (Finance & Business Analytics) | MP Birla Institute of Management | 2024 – 2026 | 61.07% |
-| Bachelor of Commerce (B.Com) | MES Institute of Management | 2020 – 2023 | 70.27% |
+### MBA in Finance & Business Analytics
+**MP Birla Institute of Management** | 2024–2026 | **61.07%**
+
+### Bachelor of Commerce (B.Com)
+**MES Institute of Management** | 2020–2023 | **70.27%**
+
 ---
 
 ## Leadership & Volunteering
