@@ -11,6 +11,49 @@
 
 ---
 
+## About Me
+
+I am an MBA graduate specializing in Finance & Business Analytics with a strong passion for data analytics, business intelligence, and data-driven decision-making. I have hands-on experience in SQL, Power BI, Advanced Excel, and dashboard development, enabling me to transform raw data into meaningful insights.
+
+My goal is to build a career in Data Analytics where I can leverage analytical thinking, business knowledge, and visualization skills to solve real-world business problems.
+
+---
+
+## Technical Skills
+
+### Data Analytics
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Data Modeling
+
+### SQL
+- MySQL
+- Joins
+- Aggregations
+- Subqueries
+- Data Analysis Queries
+
+### Power BI
+- DAX
+- Data Modeling
+- Dashboard Development
+- Interactive Reporting
+
+### Excel
+- Advanced Excel
+- Pivot Tables
+- Lookup Functions
+- Data Analysis
+- Reporting
+
+### Python
+- Foundations of Python
+
+---
+
 ## Featured Project
 
 ### 📊 [Student Performance Analytics Dashboard](https://github.com/chaitanyabelgaumkar-cell/Student-Performance-Analytics-Dashboard)
@@ -64,49 +107,6 @@ The dashboard provides a centralized view of student performance, helping users 
 
 ---
 
-## About Me
-
-I am an MBA graduate specializing in Finance & Business Analytics with a strong passion for data analytics, business intelligence, and data-driven decision-making. I have hands-on experience in SQL, Power BI, Advanced Excel, and dashboard development, enabling me to transform raw data into meaningful insights.
-
-My goal is to build a career in Data Analytics where I can leverage analytical thinking, business knowledge, and visualization skills to solve real-world business problems.
-
----
-
-## Technical Skills
-
-### Data Analytics
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Data Modeling
-
-### SQL
-- MySQL
-- Joins
-- Aggregations
-- Subqueries
-- Data Analysis Queries
-
-### Power BI
-- DAX
-- Data Modeling
-- Dashboard Development
-- Interactive Reporting
-
-### Excel
-- Advanced Excel
-- Pivot Tables
-- Lookup Functions
-- Data Analysis
-- Reporting
-
-### Python
-- Foundations of Python
-
----
-
 ## Education
 
 ### MBA in Finance & Business Analytics
@@ -132,26 +132,5 @@ Worked with nonprofit accessibility initiatives and community outreach programs.
 
 - **[Nonprofit Volunteer Coordination](https://www.linkedin.com/posts/chaitanyacbelg_im-glad-to-have-joined-the-nonprofit-team-activity-7201274777469140993-YUkU)**  
   Assisted in volunteer engagement and community outreach activities, contributing to the planning and execution of programs that support social causes and accessibility initiatives.
-
----
-
-## Core Competencies
-
-- Analytical Thinking
-- Problem Solving
-- Communication
-- Leadership
-- Business Analysis
-- Critical Thinking
-- Data Storytelling
-- Decision Making
-
----
-
-## Languages
-
-- English
-- Kannada
-- Hindi
 
 ---
