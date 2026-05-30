@@ -11,6 +11,59 @@
 
 ---
 
+## Featured Project
+
+### 📊 [Student Performance Analytics Dashboard](https://github.com/chaitanyabelgaumkar-cell/Student-Performance-Analytics-Dashboard)
+
+#### Project Overview
+
+Developed an end-to-end analytics solution to evaluate student academic performance and identify factors influencing educational outcomes. The project involved data extraction, transformation, relational data modeling, and interactive dashboard development to provide actionable insights for educators and administrators.
+
+#### Business Problem
+
+Educational institutions often struggle to monitor student performance across multiple subjects and assessments. This project was designed to centralize student performance data and provide a comprehensive view of academic trends, enabling data-driven decision-making.
+
+#### My Role
+
+- Designed and managed the relational database structure.
+- Wrote SQL queries to clean, transform, and analyze student performance data.
+- Built data models to establish relationships between students, courses, and examination records.
+- Developed interactive Power BI dashboards for performance tracking and visualization.
+- Created KPIs to measure academic achievement and identify performance patterns.
+
+#### Key Features
+
+- Student-wise performance analysis
+- Course-wise performance tracking
+- Examination score analysis
+- KPI monitoring and reporting
+- Interactive filtering and drill-down capabilities
+- Trend identification and comparative analysis
+
+#### Tools & Technologies
+
+- SQL
+- Power BI
+- Microsoft Excel
+- Data Modeling
+- Data Visualization
+
+#### Skills Demonstrated
+
+- Data Cleaning & Transformation
+- SQL Querying
+- Relational Database Design
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+- Analytical Thinking
+
+#### Outcome
+
+The dashboard provides a centralized view of student performance, helping users quickly identify academic trends, monitor key metrics, and support data-driven educational decisions.
+
+---
+
 ## About Me
 
 I am an MBA graduate specializing in Finance & Business Analytics with a strong passion for data analytics, business intelligence, and data-driven decision-making. I have hands-on experience in SQL, Power BI, Advanced Excel, and dashboard development, enabling me to transform raw data into meaningful insights.
@@ -51,27 +104,6 @@ My goal is to build a career in Data Analytics where I can leverage analytical t
 
 ### Python
 - Foundations of Python
-
----
-
-## Featured Project
-
-### [Student Performance Analytics Dashboard](https://github.com/chaitanyabelgaumkar-cell/Student-Performance-Analytics-Dashboard)
-
-An interactive analytics dashboard developed using Power BI, SQL, and Excel to analyze student academic performance and generate actionable insights.
-
-#### Key Features
-- Data Cleaning & Transformation
-- Data Modeling
-- Interactive Dashboard Design
-- Academic Performance Analysis
-- KPI Monitoring
-- Trend Analysis
-
-#### Technologies Used
-- Power BI
-- SQL
-- Excel
 
 ---
 
