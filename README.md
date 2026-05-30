@@ -123,14 +123,3 @@ Worked with nonprofit accessibility initiatives and community outreach programs.
 - Hindi
 
 ---
-
-## Current Focus
-
-- Data Analytics
-- SQL
-- Power BI
-- Business Intelligence
-- Dashboard Development
-- Financial Analytics
-
----
